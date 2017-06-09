@@ -1,5 +1,8 @@
-This project will help me get a better job.
+This project will be awesome and will help me get a better job.
 
-This project is awesome.
+<<<<<<< HEAD
 
 This project will help Treehouse students learn about working with Git repositories.
+=======
+This project will help all the totally awesome Treehouse students learn about working with Git repositories.
+>>>>>>> foo_feature
